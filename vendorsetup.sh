@@ -21,4 +21,4 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo full_tilapia-userdebug
-add_lunch_combo custom_tilapia-userdebug
+add_lunch_combo omni_tilapia-userdebug
