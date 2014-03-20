@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8b77b57d_39d195d2",
+        "filename": "overlay/frameworks/base/core/res/res/xml/storage_list.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2014-03-20T23:35:19Z",
+      "side": 1,
+      "message": "Whitespace issues - for most repos, Android coding style is \"don\u0027t use tabs\"\n\n(there are some exceptions, but not in any of the files you\u0027re touching)",
+      "revId": "d4fa6b52b133b10307dff0732f3707bf5fb58b09",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
