@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8b77b57d_ee082e31",
+        "filename": "fstab.grouper",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2014-03-24T23:30:39Z",
+      "side": 1,
+      "message": "It appears that the other lines in fstab are using spaces instead of tabs",
+      "revId": "090c93698004a6b1b2c258513f2603bdfb534843",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
